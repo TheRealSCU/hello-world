@@ -1,3 +1,3 @@
 # hello-world
 first repository
-This is a little more about me...
+Any tips for me would be appreciated.
